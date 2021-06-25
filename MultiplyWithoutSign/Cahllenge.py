@@ -30,7 +30,7 @@ def Multiply(a, b):
 
 if __name__ == '__main__':
 
-    a = 2
-    b = 2
+    a = 2.5
+    b = 2.5
     number = Multiply(a, b)
     print(number)

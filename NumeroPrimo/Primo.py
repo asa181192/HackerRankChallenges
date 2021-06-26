@@ -10,10 +10,6 @@ def numeroPrimo(n, i):
 
 def esPrimo(n):
     return numeroPrimo(n,2)
-# LUIS SIUL
-
-#  OSO , oxxxo
-
 
 if __name__ == '__main__':
 
